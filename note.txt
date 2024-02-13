@@ -1,0 +1,1 @@
+To export a function, variable, or constant,  in Go, simply change the first letter of the function to a capital letter. 
